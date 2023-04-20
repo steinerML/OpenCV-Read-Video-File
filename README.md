@@ -16,7 +16,7 @@ I have used the following functions/methods:
 
 
 ## Test Video used: 
-Below the video we used to execute the aforementioned functions:
+Below the video I used to execute the aforementioned functions:
 
 ![Source Image](https://learnopencv.com/wp-content/uploads/2021/05/image.gif)
 
