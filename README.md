@@ -18,7 +18,7 @@ I have used the following functions/methods:
 ## Test Video used: 
 Below the video we used to execute the aforementioned functions:
 
-![Source Image](https://github.com/steinerML/OpenCV-Read-Video-File/blob/main/readme_gif.gif)
+![Source Image](https://learnopencv.com/wp-content/uploads/2021/05/image.gif)
 
 
 ## Summary:
