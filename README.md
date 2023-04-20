@@ -1,5 +1,5 @@
 # OpenCV Read and Write Videos
-Reading and Writing videos using OpenCV
+Reading and Writing videos using OpenCV.
 ## Contents:
 
 Reading and writing videos in OpenCV is very similar to reading and writing images. A video is nothing but a series of images that are often referred to as frames.
